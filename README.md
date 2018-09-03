@@ -11,7 +11,7 @@ $ mvn clean install
 
 Test with:
 ``` shellsession
-$ mvn exec:java -D"exec.mainClass"="com.brian.ticketservice.App.java"
+$ mvn exec:java -D"exec.mainClass"="com.brian.ticketservice.App"
 ```
 
 Test Output sample:
