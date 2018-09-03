@@ -21,7 +21,7 @@ Please refer the `TestOutputSample.txt` in the repo
 
 Assumptions
 ==
-*The most front seat consider the best seat
+*The most front seat considers the best seat
 
 *Able to interact with customer from Console
 
