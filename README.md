@@ -19,4 +19,10 @@ Test Output sample:
 Please refer the `TestOutputSample.txt` in the repo
 
 
+Assumptions
+==
+*The most front seat consider the best seat
 
+*Able to interact with customer from Console
+
+*In the real world, need to consider the thread safe problem
