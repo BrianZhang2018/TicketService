@@ -25,6 +25,8 @@ Assumptions
 
 *Every seat has a seat id
 
+*A seat needs to be held and doesn't expire before be reserved
+
 *Able to interact with customer from Console
 
 *In the real world, need to consider the thread safe problem
