@@ -6,7 +6,7 @@
 Please select your option:
 
 1
-100 seats is available now
+100 seats are available now
  
  0. Exit 
  1. Show the number of available seats 
