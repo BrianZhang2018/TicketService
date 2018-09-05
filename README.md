@@ -23,7 +23,7 @@ Assumptions
 ==
 *The most front seat considers the best seat
 
-*Every seat has a seatId
+*Every seat has a seat id
 
 *Able to interact with customer from Console
 
