@@ -187,7 +187,7 @@ public class TicketServiceImpl implements TicketService, Runnable {
                     case 0:
                         return;
                     case 1:
-                        System.out.println(numSeatsAvailable() + " seats is available now");
+                        System.out.println(numSeatsAvailable() + " seats are available now");
                         displayOptions();
                         break;
                     case 2:
@@ -197,7 +197,7 @@ public class TicketServiceImpl implements TicketService, Runnable {
                         String email = scan.next();
                         SeatHold seatHold = findAndHoldSeats(seatNums, email);
                         if (seatHold != null) {
-                            System.out.println("Congratulation, you have successful held the seats! The Id of your held seats is : " + seatHold.getSeatHoldId() + "\n Held seats: \n");
+                            System.out.println("Congratulation, you have successful held the seats! The Id of your Held Seats is : " + seatHold.getSeatHoldId() + "\n Held seats: \n");
                             Utils.displaySeats(seatHold.getSeats());
                         }
                         displayOptions();

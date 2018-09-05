@@ -36,7 +36,7 @@ public final class Utils {
 
     public static synchronized void displaySeats(List<Seat> seats) {
         for (int i = 0; i < seats.size(); i++) {
-            System.out.println("Row: " + seats.get(i).getRow() + " ,Number:" + seats.get(i).getNumber());
+            System.out.println("Seat Id: "+ seats.get(i).getId() +" (Row: " + seats.get(i).getRow() + ", Number:" + seats.get(i).getNumber() + ")");
         }
     }
 
