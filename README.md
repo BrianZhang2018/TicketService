@@ -23,6 +23,8 @@ Assumptions
 ==
 *The most front seat considers the best seat
 
+*Every seat has a seatId
+
 *Able to interact with customer from Console
 
 *In the real world, need to consider the thread safe problem
