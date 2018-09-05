@@ -1,4 +1,4 @@
-`TicketService-Walmart-lab`
+TicketService-Walmart-lab
 ==
 
 Building and Testing
